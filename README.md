@@ -8,5 +8,8 @@ Voici les différents langages acquis :
 | FRONTEND | BACKEND |
 | :----------- | :----------- |
 | HTML 5 | Node.js |
-| CSS3: CSS, Responsive Web Design, Bundlers (Parcel), SASS | ProstgreSQL |
+| CSS3: CSS, 
+        Responsive Web Design, 
+        Bundlers (Parcel), 
+        SASS | ProstgreSQL |
 | Javascript | REACT |
