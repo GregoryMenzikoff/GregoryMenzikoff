@@ -12,6 +12,8 @@ Voici les différents langages acquis :
 | Accessibilité : Référentiels (RGAA, WCAG), Bonnes pratiques (UX, UI, HTML, CSS...), SEO (référencement naturel) | 
 | Javascript : DOM, Events, Prototype | 
 
+
+
 | BACKEND |
 | :-------- |
 | Node.js : Npm, Serveur et méthodes HTTP, Express, MVC, EJS, POO, Authentification et autorisation d'une requête|
