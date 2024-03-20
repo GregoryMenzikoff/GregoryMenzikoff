@@ -14,6 +14,6 @@ Voici les différents langages acquis :
 
 | BACKEND |
 | :-------- |
-|Node.js : Npm, Serveur http |
-|  ProstgreSQL |
+| Node.js : Npm, Serveur et méthodes HTTP, Express, MVC, EJS, POO, Authentification et autorisation d'une requête|
+|  SQL |
 | REACT |
