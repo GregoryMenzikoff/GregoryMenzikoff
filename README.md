@@ -7,7 +7,11 @@ Voici les différents langages acquis :
 
 | FRONTEND | BACKEND |
 | :----------- | :----------- |
-| HTML 5 | Node.js : Serveur http |
+| HTML 5 | Node.js : Npm, Serveur http,  |
 | CSS3 : CSS, Responsive Web Design, Bundlers (Parcel), SASS | ProstgreSQL |
 | Accessibilité : Référentiels (RGAA, WCAG), Bonnes pratiques (UX, UI, HTML, CSS...), SEO (référencement naturel) | REACT |
 | Javascript : DOM, Events, Prototype | 
+
+| BACKEND |
+| :-------- |
+|Node.js : Npm, Serveur http, |
