@@ -5,13 +5,15 @@ J'ai choisi de quitter la radiation ☢️ pour la programmation 🖥️, pour q
 
 Voici les différents langages acquis :
 
-| FRONTEND | BACKEND |
-| :----------- | :----------- |
-| HTML 5 | Node.js : Npm, Serveur http,  |
-| CSS3 : CSS, Responsive Web Design, Bundlers (Parcel), SASS | ProstgreSQL |
-| Accessibilité : Référentiels (RGAA, WCAG), Bonnes pratiques (UX, UI, HTML, CSS...), SEO (référencement naturel) | REACT |
+| FRONTEND | 
+| :----------- | 
+| HTML 5 |
+| CSS3 : CSS, Responsive Web Design, Bundlers (Parcel), SASS | 
+| Accessibilité : Référentiels (RGAA, WCAG), Bonnes pratiques (UX, UI, HTML, CSS...), SEO (référencement naturel) | 
 | Javascript : DOM, Events, Prototype | 
 
 | BACKEND |
 | :-------- |
-|Node.js : Npm, Serveur http, |
+|Node.js : Npm, Serveur http |
+|  ProstgreSQL |
+| REACT |
