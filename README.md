@@ -10,4 +10,4 @@ Voici les différents langages acquis :
 | HTML 5 | Node.js |
 | CSS3 : CSS, Responsive Web Design, Bundlers (Parcel), SASS | ProstgreSQL |
 | Accessibilité : Référentiels (RGAA, WCAG), Bonnes pratiques (UX, UI, HTML, CSS...), SEO (référencement naturel) | REACT |
-| Javascript | 
+| Javascript : DOM, Events, Prototype | 
