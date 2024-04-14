@@ -9,7 +9,7 @@ Voici les différents langages acquis :
 | :----------- | 
 | HTML 5 |
 | CSS3 : CSS, Responsive Web Design, Bundlers (Parcel), SASS | 
-| Accessibilité : Référentiels (RGAA, WCAG), Bonnes pratiques (UX, UI, HTML, CSS...), SEO (référencement naturel) | 
+| Accessibilité : Référentiels (RGAA, WCAG), Bonnes pratiques (UX, UI, HTML, CSS...) | 
 | Javascript : DOM, Events, Prototype | 
 | REACT & REACTDOM : Yarn |
 
@@ -21,4 +21,6 @@ Voici les différents langages acquis :
 | Bdd : Requête Sql, Conception et implémentation (MCD/MLD/MPD),  PostgreSql, Design pattern active record (get/set), ORM (Sequelize)|
 | API REST: Format JSON, CORS |
 | AJAX : Fletch |
+
+Autre : SEO (référencement naturel)
 
