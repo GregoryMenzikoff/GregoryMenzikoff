@@ -5,16 +5,6 @@ J'ai choisi de quitter la radiation ☢️ pour la programmation 🖥️, pour q
 
 Voici les différents langages acquis :
 
-## Les besoins pour la page d'accueil
-
-|En tant que...|Je veux...|Afin de...|
-|--------------|---------------------|---------------------|
-|Visiteur| Acceder à la page d'accueil | voir les titres, logo, les images, description des meilleurs occasions de la semaine |
-|Visiteur| Acceder à une navigation de catégories populaires | voir les différents types de vélo d'occasion |
-|Visiteur| Acceder à une barre de recherche  | trouver un vélo d'occasion spécifique  |
-|Visiteur| Acceder à un logo pour l'inscription ou la connexion  |  s'identifier et d'avoir accès aux fonctionnalitéx et pages d'un membre |
-|Visiteur| Acceder à un lien internes  |  parcourir la page montrant l'équipe |
-|Visiteur| Acceder à des lien externe  |  parcourir des blogs montrant des tutos de réparations de vélo et la chaîne youtube |
 
 | FRONTEND | 
 | :----------- | 
