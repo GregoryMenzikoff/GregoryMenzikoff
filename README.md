@@ -21,7 +21,7 @@ Voici les différents langages acquis :
 | Node.js : Npm, Serveur et méthodes HTTP, Express, MVC, EJS, POO, Authentification et autorisation d'une requête|
 | Bdd : Requête Sql, Conception et implémentation (MCD/MLD/MPD),  PostgreSql, Design pattern active record (get/set), ORM (Sequelize)|
 | API REST: Format JSON, CORS |
-| AJAX : Fletch |
+| AJAX : Fetch |
 
 Autre : SEO (référencement naturel)
 
