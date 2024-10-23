@@ -9,7 +9,7 @@ Voici les différents langages acquis :
 | FRONTEND | 
 | :----------- | 
 | HTML 5 |
-| CSS3 : CSS, Responsive Web Design, Bundlers (Parcel), SASS | Tailwind
+| CSS3 : CSS, Responsive Web Design, Bundlers (Parcel), SASS | Tailwind |
 | Accessibilité : Référentiels (RGAA, WCAG), Bonnes pratiques (UX, UI, HTML, CSS...) | 
 | Javascript : DOM, Events, Prototype | 
 | REACT & REACTDOM : Yarn |
