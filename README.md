@@ -26,5 +26,5 @@ Voici les différents langages acquis :
 Autre : SEO (référencement naturel)
 
 TEST d'aptitude Académie Work - Switzerland :
-[my link](file:///C:/Users/menzi/Downloads/Alva%20Labs%20Logic%20Test%20Report%20-%20Gr%C3%A9gory%20Menzikoff.pdf)
+[Lien](file:///C:/Users/menzi/Downloads/Alva%20Labs%20Logic%20Test%20Report%20-%20Gr%C3%A9gory%20Menzikoff.pdf)
 
